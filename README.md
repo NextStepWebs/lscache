@@ -1,3 +1,5 @@
+_Forked to introduce some changes needed for our company_
+
 lscache
 ===============================
 This is a simple library that emulates `memcache` functions using HTML5 `localStorage`, so that you can cache data on the client
